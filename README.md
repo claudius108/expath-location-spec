@@ -1,1 +1,1 @@
-# expath-location-spec
+# EXPath Location Specification, see http://kuberam.ro/specs/expath/location/location.html.
